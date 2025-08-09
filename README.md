@@ -1,12 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Hello!! this is my very first React BIGGGG project! I made this Mini Quiz Game that guesses which character you are based on your choices and personality. It was really really really a challenge for me to make this BUT GAHHH ATLAST it works!!! YAYAYAYA IM SO HAPPYY! i also deployed it on Vercel (WHICH TOOK 2 HOURS) (But again, atleast it was worth it) in our project guidlines, it was advised to use API's to fetch the results data, but I couldn't find one so I just personalised some of my own T-T (took alot of research) and i also learnt so so so many new things while making this, I learnt how to make color variables in CSS, learnt logic formation in React better, and also learnt how to Deploy you web app with vercel!! a win win haha i hope. I hope you had fun playing this silly game... it took me alot of time so im kinda nervous. Oh and yeah i also designed the UI layout myself! (tho its very simple ahaha...) 
